@@ -1,4 +1,4 @@
-# Transcription-Translation-Reverse_Translation
+# Transcription-Translation & Reverse Translation
 This repository includes codes for transcription-translation &amp; reverse translation.
 
 ## Program Descriptions:
